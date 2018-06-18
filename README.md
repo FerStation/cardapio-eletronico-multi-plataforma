@@ -1,4 +1,4 @@
-*Esse projeto foi finalista da competição: "Campus Mobile - 2º edição", ficando entre os 100 melhores projetos da edição. Esse foi um pequeno texto que escrevi para a faculdade em 2013 contando a minha experiência no evento.(obs: essa é uma adaptação para o arquivo README.md, o texto original está em Evento Campus Mobile 2013_img.docx)*
+*Esse projeto foi finalista da competição: "Campus Mobile - 2º edição", ficando entre os 100 melhores projetos da edição. Esse foi um pequeno texto que escrevi para a faculdade em 2013 contando a minha experiência no evento.(obs: essa é uma adaptação para o arquivo README.md, o texto original está em <a href="https://github.com/fernandobrscunha/cardapio-eletronico-multi-plataforma/blob/master/Evento%20Campus%20Mobile%202013_img.docx">Evento Campus Mobile 2013_img.docx</a>)*
 
 # Evento Campus Mobile 2013  
 
